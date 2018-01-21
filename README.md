@@ -1,4 +1,8 @@
+
+
 # Vista
+![alt text](https://github.com/Merclain/E-singer/blob/master/VI.png)
+
 Vista is a website for musicians and music lovers who could post their songs as videos or audio format.The best place to showcase your talents.
 
 # How could Vista improve my talents.
@@ -11,3 +15,5 @@ Stay connected with Music Directors and Great Legends in Music and get a chance 
 # How do I contribute to Vista app
   Vista app is an open-source platform.Developers who like Music are always welcomed to contribute your ideas.
   If you have any suggesstions regarding Vista app feel free to mail us ```adarsh@merclain.com``` 
+
+# 
